@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/admin/Documents/Tencent Files/1029455480/FileRecv/MobileFile/list/list/list.c
+list.h
+C:/Users/admin/Documents/Tencent Files/1029455480/FileRecv/MobileFile/list/list/list.h
+
+C:/Users/admin/Documents/Tencent Files/1029455480/FileRecv/MobileFile/list/list/list.h
+stdio.h
+-
+malloc.h
+-
+
+C:/Users/admin/Documents/Tencent Files/1029455480/FileRecv/MobileFile/list/list/main.c
+list.h
+C:/Users/admin/Documents/Tencent Files/1029455480/FileRecv/MobileFile/list/list/list.h
+
